@@ -5,7 +5,6 @@ const ingredients = [
 	"Tomatos",
 	"Herbs",
 	"Condiments",
-	"dfgfg",
 ];
 
 const list = document.querySelector("#ingredients");
